@@ -1,8 +1,8 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
+* I was born in Tehran.
+* I have a PhD in physics. I have worked at several institutes as postdoc, such as Elettra (Italy), HZB (Berlin), and MPG (Berlin)
 * I have some experience analyzing data from my own experiments but no formal training whatsoever.
 
 # Why am I here
